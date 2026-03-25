@@ -99,7 +99,7 @@ const tripleCards = [
     title: '피넛버터머신',
     subtitle: '신선한 피넛버터를 즉석에서 만드는 자동화 머신',
     placeholder: '피넛버터머신 이미지',
-    image: '',
+    image: 'https://chiro-web.s3.amazonaws.com/nbpkorea/coffee/peanut-butter.jpg',
     link: '/products/peanut-butter',
   },
 ]
